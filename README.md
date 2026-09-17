@@ -20,5 +20,7 @@ This project detects whether an uploaded audio file contains a real human voice 
 
 ## Installation
 
+Install the required Python libraries:
+
 ```bash
 pip install -r requirements.txt
