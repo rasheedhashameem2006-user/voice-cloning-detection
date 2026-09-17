@@ -25,10 +25,9 @@ Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
 
-
+```text
 ## Run the Application
 
 ```bash
 streamlit run app.py
 
-Add application run instructions
